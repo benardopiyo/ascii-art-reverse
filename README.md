@@ -61,9 +61,3 @@ go run . --reverse=test.txt
 ```bash
 Hello World
 ```
-
-## Authors
-
-* [Benard Opiyo](https://learn.zone01kisumu.ke/git/beopiyo)
-
-* [Nicholas Otieno](https://learn.zone01kisumu.ke/git/nichotieno)
